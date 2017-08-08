@@ -16,7 +16,7 @@ Press "cmd + shift + p" again and then type "Package Control: Install Package", 
 Once the list of packages is displayed, simply search for 'tabstasher' and press enter.
 
 ## How it works
-Simple open a Ruby file, right click on the editor and select Namespaceit!. The namespace defined in hte file will be copied to your clipboard with the proper format of: Module::ModuleB::Class
+While looking at a Ruby file, open the Comman Pallette (cmd + shift + p for Mac OSX users) and pick Namespaceit!. The namespace defined in hte file will be copied to your clipboard with the proper format of: Module::ModuleB::Class
 
 ## License
 * MIT License
