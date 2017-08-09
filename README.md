@@ -13,7 +13,7 @@ Use 'https://github.com/GonzoGhanem/namespaceit.git'
 
 Press "cmd + shift + p" again and then type "Package Control: Install Package", press enter.
 
-Once the list of packages is displayed, simply search for 'tabstasher' and press enter.
+Once the list of packages is displayed, simply search for 'namespaceit' and press enter.
 
 ## How it works
 While looking at a Ruby file, open the Comman Pallette (cmd + shift + p for Mac OSX users) and pick Namespaceit!. The namespace defined in hte file will be copied to your clipboard with the proper format of: Module::ModuleB::Class
